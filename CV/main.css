@@ -14,12 +14,12 @@ html {
 .prof-box {
     
     width: 400px;
-    height: 400px;
+    height: 450px;
     background: rgba(0,0,0,0.4);
     padding: 40px;
     color: white;
     margin: 0 auto;
-    margin-top: 140px;
+    margin-top: 125px;
     text-align: center;
 }
 
@@ -42,8 +42,9 @@ h1 {
 
 h5 {
     
-    color: black;
-    margin-top: 28px;
+    color: white;
+	font-size: 16px;
+    
     
 }
 
@@ -59,3 +60,17 @@ p {
     font-size: 40px;
 }
 
+.social-icons a {
+	
+	color: white;
+	
+}
+
+
+.line-break {
+	
+	width: 300px;
+	border-top: 1px solid white;
+	margin: 0 auto;
+	
+}
